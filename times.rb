@@ -1,11 +1,10 @@
-def using_times(times)
+def using_times
   counter = 0
   loop do
     counter +=1
   puts "Wingardium Leviosa"
-  if counter >=7
+  if counter >=8
     break
-	#your code here
 end
 
 

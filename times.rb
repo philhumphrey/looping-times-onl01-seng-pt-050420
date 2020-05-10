@@ -3,7 +3,8 @@ def using_times(times)
   loop do
     counter +=1
   puts "Wingardium Leviosa"
-  
+  if counter >=7
+    break
 	#your code here
 end
 
